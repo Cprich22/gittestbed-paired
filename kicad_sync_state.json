@@ -1,0 +1,16 @@
+﻿{
+    "github_version":  0,
+    "token":  {
+                  "holder":  "",
+                  "claimed_at":  ""
+              },
+    "last_upload":  {
+                        "pc":  "",
+                        "time":  ""
+                    },
+    "override":  {
+                     "by":  "",
+                     "time":  "",
+                     "previous_holder":  ""
+                 }
+}
